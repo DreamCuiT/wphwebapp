@@ -1,0 +1,87 @@
+[
+  { "banner": "/static/img/fashion/ias_153923459090949_604x290_80.jpg",
+    "discount": "1",
+    "name": "音儿YINER女装专场",
+    "days": "3",
+    "more": ""
+  },
+  { "banner": "/static/img/fashion/ias_153907370034899_604x290_80.jpg",
+    "discount": "4",
+    "name": "门店直发-宝姿PORTS女装专场",
+    "days": "2",
+    "more": ""
+  },
+  { "banner": "/static/img/fashion/ias_153933538249473_604x290_80.jpg",
+    "discount": "2",
+    "name": "伊芙丽eifini女装专场",
+    "days": "2",
+    "more": ""
+  },
+  { "banner": "../../../static/img/fashion/ias_153933172990626_604x290_80.jpg",
+    "discount": "2",
+    "name": "小熊TEENIEWEENIE秋热卖女装专场",
+    "days": "2",
+    "more": "购物满599元即赠围巾，数量有限，赠完即止"
+  },
+  { "banner": "/static/img/fashion/d6a296c13a9141b93c04a370940b8bad_604x290_80.jpg",
+    "discount": "",
+    "name": "10.16暖心鞋包",
+    "days": "2",
+    "more": ""
+  },
+  { "banner": "/static/img/fashion/ias_153804140566942_604x290_80.jpg",
+    "discount": "1.8",
+    "name": "百丽BeLLE女鞋专场",
+    "days": "2",
+    "more": ""
+  },
+  { "banner": "/static/img/fashion/ias_153907923714391_604x290_80.jpg",
+    "discount": "1.2",
+    "name": "风暴好货-GXG男装专场",
+    "days":"1",
+    "more": ""
+  },
+  { "banner": "/static/img/fashion/ias_153820500845684_604x290_80.jpg",
+    "discount": "0.8",
+    "name": "威可多男装专场",
+    "dats": "1",
+    "more": ""
+  },
+  { "banner": "/static/img/fashion/ias_153933347919176_604x290_80.jpg",
+    "discount": "2.5",
+    "name": "斐乐FILA男士运动专场",
+    "days": "2",
+    "more": "满一件，享8.5折"
+  },
+  { "banner": "/static/img/fashion/ias_153965869990511_604x290_80.jpg",
+    "discount": "1.1",
+    "name": "品牌钜献-都市丽人家居服&保暖混合专场",
+    "days": "2",
+    "more": ""
+  },
+  { "banner": "/static/img/fashion/ias_153965642562404_604x290_80.jpg",
+    "discount": "5.8",
+    "name": "周大福珠宝专场",
+    "days": "1",
+    "more": ""
+  },
+  { "banner": "/static/img/fashion/ias_153932885951249_604x290_80.jpg",
+    "discount": "2.5",
+    "name": "MO&Co.尚新专场",
+    "days": "1",
+    "more": ""
+  },
+  { "banner": "/static/img/fashion/ias_153957200652821_604x290_80.jpg",
+    "discount": "2",
+    "name": "ochirly女装保暖专场",
+    "days": "2",
+    "more": ""
+  },
+  { "banner": "/static/img/fashion/ias_153613512275051_604x290_80.jpg",
+    "discount": "2.4",
+    "name": "ADIDAS阿迪达斯super经典休闲跑鞋专场",
+    "days": "1",
+    "more": "满一件，享8.5折"
+  }
+]
+

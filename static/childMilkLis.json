@@ -1,0 +1,30 @@
+[
+    {
+        "goodsid":"0",
+        "img":"static/img/shoes/WL574EN-1_720x909_70.jpg",
+        "text":"New Balance NB574 女款运动鞋 透气减震",
+        "aPrice":559,
+        "bPrice":660
+    },
+    {
+        "goodsid":"1",
+        "img":"static/img/particulars/163d635c-05c9-4070-9bc7-100e297058e6_720x909_70.jpg",
+        "text":"【超值入门体验】蒂佳婷Dr.Jart+7天面膜套装 韩国美白补水保湿药丸面膜",
+        "aPrice":198,
+        "bPrice":280
+    },
+    {
+        "goodsid":"2",
+        "img":"static/img/shopcars/149792138-1175797640653701120-1175797640653701122-50_5t.jpg",
+        "text":"唯品自营 | 三彩冬季新款 背带针织连衣裙长袖羊毛衫背带裙两件套装",
+        "aPrice":348,
+        "bPrice":893
+    },
+    {
+        "goodsid":"3",
+        "img":"static/img/listpage/cmBox3.png",
+        "text":"【自然来源膳食纤维】Nutrilon诺优能幼儿配方奶粉3段(12-3...",
+        "aPrice":909,
+        "bPrice":1128
+    }
+]

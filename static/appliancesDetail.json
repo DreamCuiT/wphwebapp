@@ -1,0 +1,61 @@
+[
+  {
+    "title":"static/img/appliances/15275874022170.jpg",
+    "message":"今日特卖·每天早十点 晚八点上新",
+    "detailedCom":
+    [
+      {
+        "pic":"static/img/appliances/93c771bad831f1113e9b8ef17d432b59_604x290_80.jpg",
+        "msg":"九九重阳 礼敬父母",
+        "day":"剩2天"
+      },
+      {
+        "pic":"static/img/appliances/879f0540c5941d1094cfd400c07cedf4_604x290_80.jpg",
+        "msg":"秋季锻炼正当时",
+        "day":"剩1天"
+      },
+      {
+        "pic":"static/img/appliances/ias_153714860760532_604x290_80.jpg",
+        "msg":"2.1折起 华光电气专场",
+        "day":"剩2天"
+      },
+      {
+        "pic":"static/img/appliances/15234422804182.jpg"
+      }
+    ]
+  },
+  {
+  "title":"static/img/appliances/15335553009317.gif",
+    "gif":
+    [
+      "static/img/appliances/15342184302776.gif",
+      "static/img/appliances/15342184596079.gif",
+      "static/img/appliances/15342181960296.gif",
+      "static/img/appliances/15342182730238.gif",
+      "static/img/appliances/15342183409437.gif",
+      "static/img/appliances/15342184043387.gif",
+      "static/img/appliances/15341475174222.gif"
+    ],
+  "detailedCom":
+    [
+    {
+    "pic":"/static/img/appliances/15047674327704.jpg"
+    },
+    {
+    "pic":"/static/img/appliances/ias_153870986799161_604x290_80.jpg",
+    "msg":"1.7折起 艾美特AIRMATE电器专场",
+    "day":"剩2天"
+    },
+    {
+    "pic":"static/img/appliances/ias_153959264669240_604x290_80.jpg",
+    "msg":"1.4折起 柯沃特扫地机器人专场",
+    "day":"剩2天"
+    },
+    {
+      "pic":"static/img/appliances/ias_153959400333748_604x290_80.jpg",
+      "msg":"2.2折起 美的厨电专场",
+      "day":"剩2天"
+    }
+    ]
+  }
+]
